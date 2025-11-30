@@ -4,17 +4,27 @@
 This project includes data cleaning, transformation, modeling, merging, and dashboard development using Excel, Power Query, and Power BI.
 
 ## Datasets
-- Category_Proj
-- Products_Proj
-- Sales_Proj
-- Stores_Proj
-- Warranty_Proj
+- Sale_ID
+- Sale_Date
+- Quantity
+- Claim_Date
+- Repair_States
+- Store_Name
+- City
+- Country
+- Product_Name
+- Product_Price
+- Launch_Date
+- Category_Name
 
 ## Tasks Completed
+- Data Collection
+- Exploratory Data Analysis (EDA)
 - Data cleaning
 - Data transformation
 - Data modeling
 - Merging tables
+- Machine Learning (Time Series Forecasting)
 - Dashboard creation
 - Analysis insights
 
@@ -22,3 +32,4 @@ This project includes data cleaning, transformation, modeling, merging, and dash
 - Excel
 - Power Query
 - Power BI
+- Python
